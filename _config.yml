@@ -1,18 +1,3 @@
 theme: jekyll-theme-cayman
 title: countdown
-<html>
-  <title>
-    COUNTDOWN
-  </title>
-  <body>
-    <h1> I miss you babe with all my heart </h1>
-  </body>
-  
-  <style>
-    body{ 
-      color:#fff;
-      text-align:center;
-    }
-  </style>
-  
-</html>
+description: I miss u babe with all my heart
